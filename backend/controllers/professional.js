@@ -1,7 +1,3 @@
-const melindaRoute = (req, res) => {
-    res.send('Melinda Muller')
-};
-
 const data = {
   professionalName: 'Nathan Birch',
   nameLink: {
